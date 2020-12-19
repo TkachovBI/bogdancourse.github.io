@@ -1,5 +1,8 @@
 @media screen and (max-width: 767px) {
 
+    footer div{
+        margin-bottom: 2vw;
+    }
     
     html {
         scroll-behavior: smooth;
