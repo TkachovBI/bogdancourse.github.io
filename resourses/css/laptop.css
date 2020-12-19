@@ -1,0 +1,398 @@
+@media screen and (min-width: 768px) {
+
+    html {
+        scroll-behavior: smooth;
+    }
+
+
+    .course {
+        font-family: "Barlow Condensed";
+        font-weight: 600;
+        font-size: 2vw;
+        display: inline-block;
+        text-decoration: none;
+        color: #000000;
+        width: 10vw;
+    }
+
+    body {
+        padding-right: 8%;
+        padding-left: 8%;
+        padding-top: 3%;
+
+        background-color: whitesmoke;
+    }
+
+    .phone-number {
+        float: right;
+    }
+
+    .a-menu {
+        text-decoration: none;
+        color: #000000;
+        font-family: "PT Sans";
+        font-size: 120%;
+    }
+
+    .course-menu,
+    .teachers-menu,
+    .phone-number {
+        font-weight: 400;
+        font-size: 1vw;
+    }
+
+    .mini-menu-element {
+        display: inline-block;
+        margin-right: 4.5%;
+    }
+
+    .mini-menu {
+        margin-left: 25vw;
+        width: 30%;
+    }
+
+    
+    .menu-element {
+        display: inline-block;
+        vertical-align: text-top;
+    }
+
+    .home-menu {
+        font-weight: 700;
+        font-size: 1.1vw;
+    }
+
+    .icon {
+        width: 2.5vw;
+        display: inline-block;
+        margin-left: 2.5%;
+    }
+
+    .align-element {
+        vertical-align: text-bottom;
+    }
+
+    .main-text {
+        padding-top: 5%;
+        float: left;
+    }
+
+    .teacher-main-photo-img {
+        width: 50vw;
+        border-radius: 1vw;
+        float: right;
+    }
+
+    .main {
+        margin-top: 4%;
+        height: 40vw;
+    }
+
+    .learn-text-main {
+        font-size: 4vw;
+        line-height: 5vw;
+        font-weight: 600;
+        font-family: "Barlow Condensed";
+    }
+
+    .relevant-text-main {
+        font-size: 1.15vw;
+        line-height: 1.45vw;
+        padding-top: 3vh;
+        font-family: "PT Sans";
+    }
+
+
+    footer,
+    header,
+    .container {
+        display: block;
+    }
+
+    .btn-main {
+        width: 10vw;
+        font-size: 1.1vw;
+        height: 2vw;
+
+        font-weight: 400;
+        color: white;
+
+        background: #000000;
+        border-radius: 0.35vw;
+
+        margin-top: 3.5vw;
+
+        border: none;
+    }
+
+    .img-btn-main {
+        margin-left: 0.25vw;
+        width: 1.25vw;
+    }
+
+    .img-btn-main,
+    .btn-main {
+        vertical-align: middle;
+    }
+
+    .teachers-block-img {
+        margin: 0.025vw;
+        border-radius: 1vw;
+    }
+
+    .teachers {
+        background-color: #FDC937;
+        margin: auto;
+        border-radius: 1vw;
+    }
+
+    .teachers-teachers-photos div {
+        margin-left: 4vw;
+        margin-right: 8vw;
+
+    }
+
+    .first-div {
+        margin-top: 2vw;
+
+    }
+
+    .second-div {
+        margin-bottom: 2vw;
+    }
+
+    .teachers-teachers-photos div img {
+        width: 16.5vw;
+        margin: 0.35vw;
+    }
+
+    .teachers-teachers-photos,
+    .middle-part,
+    .teachers-right-part {
+        display: inline-block;
+    }
+
+    .teachers-middle-text {
+        font-size: 3.75vw;
+        line-height: 4vw;
+        font-weight: 600;
+        font-family: "Barlow Condensed";
+
+        margin-top: 0.75vw;
+    }
+
+    .teachers-middle-packman img {
+        width: 5vw;
+
+        margin-top: 2vw;
+        margin-left: -0.5vw;
+    }
+
+    .teachers-right-part {
+        float: right;
+    }
+
+    .teachers-right-part img {
+        float: right;
+        margin-right: 1.5vw;
+        width: 3.5vw;
+    }
+
+    .second-img-right {
+        margin-top: 19vw;
+    }
+
+    .first-img-right {
+        margin-top: 1vw;
+    }
+
+    footer {
+        margin-top: 4vw;
+        margin-left: -8vw;
+        margin-right: -8vw;
+        background-color: #FDC937;
+
+        padding-top: 3vw;
+        padding-bottom: 3vw;
+    }
+
+    .footer-course, .y2020, .city{
+        display: inline-block;
+        vertical-align: text-bottom;
+    }
+
+    .footer-course {
+        margin-left: 4vw;
+    }
+
+    .y2020 {
+        margin-left: 35vw;
+    }
+
+    .city {
+        float: right;
+        margin-right: 4vw;
+        margin-bottom: 0;
+    }
+
+    .rectngle {
+        width: 1vw;
+        height: 1vw;
+        border-radius: 0.35vw;
+        background-color: black;
+        margin: 0.35vw;
+    }
+
+    .text,
+    .rectngle {
+        display: inline-block;
+        vertical-align: text-bottom;
+    }
+
+    .about-course {
+        margin-top: 7vw;
+        margin-left: 8vw;
+
+        margin-right: 8vw;
+    }
+
+    .about-course img {
+        width: 30vw;
+        float: right;
+        border-radius: 1vw;
+    }
+
+    .left-part-about,
+    .about-course img {
+        display: inline-block;
+    }
+
+    .head-about-left {
+        margin-bottom: 0.5vw;
+    }
+
+    .rectangle {
+        background-color: white;
+        border-radius: 0.75vw;
+        width: 15vw;
+        box-shadow: 0px 0.125vw 1vw rgba(0, 0, 0, 0.15);
+        margin-right: 1vw;
+        margin-top: 2.6vw;
+        display: inline-block;
+    }
+
+    .rectText,
+    .rectLogo {
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    .rectLogo img {
+        width: 3vw;
+        margin: 0.25vw;
+    }
+
+    .rectangle h3 {
+        margin: 0;
+        font-size: 0.85vw;
+        font-weight: 700;
+
+        font-family: "Barlow Condensed";
+    }
+
+    .rectangle p {
+        margin: 0;
+        margin-top: 0.5vw;
+
+        font-size: 0.65vw;
+        font-weight: 400;
+        font-family: "PT Sans";
+    }
+
+    .text {
+        font-size: 1.15vw;
+        font-family: "PT Sans";
+        padding-top: 1.6vw;
+    }
+
+    .rectangles,
+    .about-course img {
+        vertical-align: text-bottom;
+    }
+
+    .big {
+        font-size: 10vw;
+        font-weight: 600;
+        font-family: "Barlow Condensed";
+        line-height: 7.5vw;
+    }
+
+    .people {
+        color: #FDC937;
+    }
+
+    .number-form {
+        margin-bottom: 1vw;
+    }
+
+    .already {
+        font-size: 1.75vw;
+        padding-top: 3vw;
+
+        font-weight: 400;
+        font-family: "PT Sans";
+    }
+
+    .form {
+        margin-top: 10vw;
+        margin-left: 15vw;
+    }
+
+    input {
+        display: block;
+        width: 25vw;
+        margin-bottom: 1vw;
+        border-radius: 0.5vw;
+        font-size: 1.25vw;
+        font-weight: 400;
+        font-family: "PT Sans";
+        text-align: center;
+    }
+
+
+    .left-form, .right-form{
+        display: inline-table;
+        vertical-align: top;
+    }
+
+    .left-form{
+        margin-right: 3vw;
+    }
+
+    .start{
+        margin-bottom: 2vw;
+    }
+
+    #started{
+        margin-top: 1vw
+    }
+    .errors{
+        
+        margin: 0;
+        font-size: 0.85vw;
+        font-weight: 700;
+
+        font-family: "Barlow Condensed";
+        color: red;
+    }
+}
+
+@font-face {
+    font-family: "PT Sans";
+    src: url("../fonts/PT_Sans/PTSans-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url("../fonts/Barlow_Condensed/BarlowCondensed-Regular.ttf");
+}
