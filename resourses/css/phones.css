@@ -206,24 +206,6 @@
         padding-bottom: 3vw;
     }
 
-    .footer-course, .y2020, .city{
-        display: inline-block;
-        vertical-align: text-bottom;
-    }
-
-    .footer-course {
-        margin-left: 4vw;
-    }
-
-    .y2020 {
-        margin-left: 35vw;
-    }
-
-    .city {
-        float: right;
-        margin-right: 4vw;
-        margin-bottom: 0;
-    }
 
     .rectngle {
         width: 2vw;
