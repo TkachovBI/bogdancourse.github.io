@@ -4,7 +4,10 @@
         scroll-behavior: smooth;
     }
 
-
+.btn-main a{
+    color: white;
+    text-decoration: none;
+}
     .course {
         font-family: "Barlow Condensed";
         font-weight: 600;
