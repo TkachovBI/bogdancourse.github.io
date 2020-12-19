@@ -1,8 +1,5 @@
 @media screen and (max-width: 767px) {
 
-    footer div{
-        margin-bottom: 2vw;
-    }
     
     html {
         scroll-behavior: smooth;
@@ -209,6 +206,9 @@
         padding-bottom: 3vw;
     }
 
+    footer div{
+        margin-bottom: 2vw;
+    }
 
     .rectngle {
         width: 2vw;
